@@ -2,7 +2,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/33cn/plugin?branch=master)](https://goreportcard.com/report/github.com/33cn/plugin)
 
 
-# 基于区块链开发的 lijiuzi公有链系统
+# 基于区块链技术开发的 lijiuzi公有链系统
 
 
 ### 编译
